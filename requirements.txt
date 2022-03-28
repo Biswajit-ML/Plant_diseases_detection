@@ -15,5 +15,4 @@ tensorboard-plugin-wit
 tensorflow
 tensorflow-estimator
 Werkzeug
-numpy
 pandas
