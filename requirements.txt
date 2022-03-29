@@ -1,4 +1,5 @@
 Flask
+tensorflow==2.1.0
 #itsdangerous
 Jinja2
 Keras-Preprocessing
@@ -12,7 +13,6 @@ scikit-learn
 streamlit
 #tensorboard
 #tensorboard-plugin-wit
-tensorflow
 #tensorflow-estimator
 Werkzeug
 pandas
