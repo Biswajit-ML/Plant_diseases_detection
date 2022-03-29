@@ -2,7 +2,7 @@ Flask
 itsdangerous
 Jinja2
 Keras-Preprocessing
-$matplotlib
+#matplotlib
 #matplotlib-inline
 #MarkupSafe
 numpy
