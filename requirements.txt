@@ -1,5 +1,5 @@
 Flask
-itsdangerous
+#itsdangerous
 Jinja2
 Keras-Preprocessing
 #matplotlib
@@ -7,7 +7,7 @@ Keras-Preprocessing
 #MarkupSafe
 numpy
 scikit-learn
-scipy
+#scipy
 #sklearn
 streamlit
 #tensorboard
